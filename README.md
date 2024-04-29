@@ -107,7 +107,8 @@ v3.0.0 | Juego Pong multijugador en red.
 
 ## Autores ✒️
 
-Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios.
 
 * **Paco Maciá** - *Trabajo Inicial* - [pmacia](https://bitbucket.org/pmacia)
+* **Álvaro Sánchez** - *Trabajo Inicial* - [pmacia](https://github.com/asp161)
+
 
