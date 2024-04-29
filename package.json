@@ -1,0 +1,25 @@
+{
+  "name": "pong",
+  "version": "2.0.0",
+  "description": "Juego Pong Multijugador en red",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sd",
+    "juego",
+    "pong",
+    "multijugador"
+  ],
+  "author": "Alvaro Sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
