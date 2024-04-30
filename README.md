@@ -109,6 +109,6 @@ v3.0.0 | Juego Pong multijugador en red.
 
 
 * **Paco Maciá** - *Trabajo Inicial* - [pmacia](https://bitbucket.org/pmacia)
-* **Álvaro Sánchez** - *Trabajo Inicial* - [pmacia](https://github.com/asp161)
+* **Álvaro Sánchez** - *Trabajo Inicial* - [asp161](https://github.com/asp161)
 
 
